@@ -36,7 +36,7 @@ $(function () {
     ],
     trackNames = [
       "IShowSpeed - Shake",
-      "Metro Boomin - Space Cadet ft. Gunna",
+      "Metro Boomin - Space Cadet",
 
     ],
     albumArtworks = ["_1", "_2"],
